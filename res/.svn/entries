@@ -1,0 +1,106 @@
+10
+
+dir
+3026
+http://192.168.2.200:4433/svn/IT/ANDROID/%E7%89%88%E6%9C%AC150212/PullToRefresh_library/res
+http://192.168.2.200:4433/svn/IT
+
+
+
+2015-06-10T09:25:53.786949Z
+739
+xulinchun
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+d4b5e170-d855-0044-95f3-7473ea39263a
+
+anim
+dir
+
+drawable
+dir
+
+drawable-hdpi
+dir
+
+drawable-ldpi
+dir
+
+drawable-mdpi
+dir
+
+drawable-xhdpi
+dir
+
+layout
+dir
+
+values
+dir
+
+values-ar
+dir
+
+values-cs
+dir
+
+values-de
+dir
+
+values-es
+dir
+
+values-fi
+dir
+
+values-fr
+dir
+
+values-he
+dir
+
+values-it
+dir
+
+values-iw
+dir
+
+values-ja
+dir
+
+values-ko
+dir
+
+values-nl
+dir
+
+values-pl
+dir
+
+values-pt
+dir
+
+values-pt-rBR
+dir
+
+values-ro
+dir
+
+values-ru
+dir
+
+values-zh
+dir
+
